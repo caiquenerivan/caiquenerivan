@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenerivan&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  <h2>Skills</h2>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Caique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +23,7 @@
 </div>
   
  ##
-  
+  <h2>Redes Sociais</h2>
 <div> 
   <a href="https://instagram.com/craquenerivan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/craquenerivan" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -33,7 +35,7 @@
 </div>
   
  ##
- 
+ <h2>***SEJA BEM-VINDO***</h2>
 <div>
     <img alt="Caique-miranha" src="https://cdn.discordapp.com/attachments/692874012514320397/876560666264215632/miranha2.gif">
 </div>
