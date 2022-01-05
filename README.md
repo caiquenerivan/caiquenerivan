@@ -3,10 +3,11 @@
 - 🔭 Sou um desenvolvedor Front-End.
 - 🌱 Estou estudando atualmente React JS.
 - :monocle_face: Estou buscando uma vaga no mercado.
-- 🎞  Curto filmes de heróis e sou fã do Spiderman. 
+-:headphones:  Curto muito música, futebol e filmes. 
+- :spider_web: Fã do aranha.
 
 <div>
-  <a href="https://github.com/caiquenerivan">
+  <a href="https://github.com/caiquenerivan" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquenerivan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenerivan&layout=compact&langs_count=7&theme=dark"/>
 </div>
