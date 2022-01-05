@@ -2,7 +2,7 @@
 
 - 🔭 Sou um desenvolvedor Front-End.
 - 🌱 Estou estudando atualmente React JS.
-- 👯 Estou buscando uma vaga no mercado.
+- :monocle_face: Estou buscando uma vaga no mercado.
 - 🎞  Curto filmes de heróis e sou fã do Spiderman. 
 
 <div>
