@@ -3,7 +3,7 @@
 - 🔭 Sou um desenvolvedor Front-End.
 - 🌱 Estou estudando atualmente React JS.
 - 👯 Estou buscando uma vaga no mercado.
-- 🎞  Curto filmes de heróis e sou fã do Spider-man. 
+- 🎞  Curto filmes de heróis e sou fã do Spiderman. 
 
 <div>
   <a href="https://github.com/caiquenerivan">
