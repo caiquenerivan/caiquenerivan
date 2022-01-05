@@ -3,7 +3,7 @@
 - 🔭 Sou um desenvolvedor Front-End.
 - 🌱 Estou estudando atualmente React JS.
 - :monocle_face: Estou buscando uma vaga no mercado.
--:headphones:  Curto muito música, futebol e filmes. 
+- :headphones:  Curto muito música, futebol e filmes. 
 - :spider_web: Fã do aranha.
 
 <div>
