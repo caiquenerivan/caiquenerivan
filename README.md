@@ -1,10 +1,10 @@
-### Olá, eu sou o Caique Nerivan! 👋
+### Hello, I am Caique! 👋
 
-- 🔭 Sou um desenvolvedor Front-End.
-- 🌱 Estou estudando atualmente React JS.
-- :monocle_face: Estou buscando uma vaga no mercado.
-- :headphones:  Curto muito música, futebol e filmes. 
-- :spider_web: Fã do aranha.
+- :desktop_computer: I'm a Front-End dev.
+- :open_book: I'm learning more about ReactJS.
+- :monocle_face: I'm currently looking for a job opportunity.
+- :headphones:  I love music, soccer and movies. 
+- :spider_web: I'm a big spiderman fan.
 
 <div>
   <a href="https://github.com/caiquenerivan" />
@@ -36,7 +36,7 @@
 </div>
   
  ##
- <h2>***SEJA BEM-VINDO***</h2>
+ <h2>***WELCOME***</h2>
 <div>
-    <img alt="Caique-miranha" src="https://cdn.discordapp.com/attachments/692874012514320397/876560666264215632/miranha2.gif">
+    <img alt="miles-spider" src="https://cdn.discordapp.com/attachments/692874012514320397/876560666264215632/miranha2.gif">
 </div>
