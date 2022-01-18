@@ -1,4 +1,4 @@
-### Hello, I am Caique! 👋
+### Hi, My name is Caique! 👋
 
 - :desktop_computer: I'm a Front-End dev.
 - :open_book: I'm learning more about ReactJS.
