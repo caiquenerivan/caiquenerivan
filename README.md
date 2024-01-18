@@ -4,7 +4,6 @@
 - :open_book: I'm learning more about ReactJS.
 - :monocle_face: I'm currently looking for a job opportunity.
 - :headphones:  I love music, soccer and movies. 
-- :spider_web: I'm a big spiderman fan.
 
 <div>
   <a href="https://github.com/caiquenerivan" />
