@@ -1,39 +1,45 @@
 ### Hi, My name is Caique! 👋
+# Hi there, I'm [Your Name]! 👋
 
-- :desktop_computer: I'm a Front-End dev.
-- :open_book: I'm learning more about ReactJS.
-- :monocle_face: I'm currently looking for a job opportunity.
-- :headphones:  I love music, soccer and movies. 
+### Full Stack Developer | Node.js • React • Java
 
-<div>
-  <a href="https://github.com/caiquenerivan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquenerivan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenerivan&layout=compact&langs_count=7&theme=dark"/>
+I am a software developer passionate about building efficient, scalable, and user-centric applications. With a solid foundation in both JavaScript and Java ecosystems, I enjoy tackling complex backend logic as much as creating intuitive frontend interfaces.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Backend:** Node.js, Express, Java (Spring Boot), NestJS.
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3.
+- **Database & ORM:** PostgreSQL, Prisma, Supabase.
+- **DevOps & Tools:** Git, Docker, Render, REST APIs.
+
+---
+
+### 🚀 What I'm Up To
+
+- 🔭 Currently refining my skills in database architecture and cloud deployments using **Prisma** and **Supabase**.
+- 💼 Actively seeking a Full Stack Developer role where I can contribute to impactful projects.
+- 🎮 When I'm not coding, you can find me playing **Battlefield**, **COD**, or sports games.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <h2>Skills</h2>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Caique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Caique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Caique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caique-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
-  
- ##
-  <h2>Redes Sociais</h2>
-<div> 
-  <a href="https://instagram.com/devnerivan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caiquenerivan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@devnerivan" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
- 
-</div>
-  
- ##
- <h2>***WELCOME***</h2>
-<div>
-    <img alt="miles-spider" src="https://cdn.discordapp.com/attachments/692874012514320397/876560666264215632/miranha2.gif">
-</div>
+---
+
+### 📫 Connect with me
+
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **Email:** your.email@example.com
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) (Optional)
+
+---
+
+<p align="center">
+  <i>"Turning coffee into code and ideas into reality."</i>
