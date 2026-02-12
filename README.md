@@ -1,5 +1,4 @@
-### Hi, My name is Caique! 👋
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Caique! 👋
 
 ### Full Stack Developer | Node.js • React • Java
 
